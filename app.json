@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "flash-cards-unlimited",
+    "slug": "flash-cards-unlimited",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
