@@ -1,5 +1,6 @@
 {
   "name": "flash-cards-unlimited",
+  "author": "Emmanuel Kant Duarte",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
